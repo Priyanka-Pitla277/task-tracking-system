@@ -1,6 +1,6 @@
 # Task Tracking System
 
-A RESTful task-management backend built with Java 17, Spring Boot 3, Spring Security, JWT, JPA, and H2. It supports accounts, teams, task assignment and filtering, comments, attachments, notifications, and a local AI-description helper.
+A RESTful task-management backend built with Java 17, Spring Boot 3, Spring Security, JWT, JPA, and H2. It supports accounts, teams, task assignment and filtering, comments, attachments, notifications, and a local AI-description helper
 
 ## Features
 
